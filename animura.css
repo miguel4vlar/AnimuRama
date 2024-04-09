@@ -60,7 +60,7 @@ header nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: auto;
+    padding: 0px 50px;
 }
 
 header nav .logo_ul {
