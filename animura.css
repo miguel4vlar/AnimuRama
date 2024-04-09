@@ -462,6 +462,20 @@ header section:hover .bi-chevron-left{
     opacity: 1;
 }
 
+@media screen and (max-width: 768px){
+    header .content h1{
+        font-size: 35px;
+    }
+
+    header nav .logo_ul img{
+        width: 135px;
+    }
+
+    header nav{
+        padding: -11px;
+    }
+}
+
 /*@media screen and (max-width: 1250px) {
     header video{
         position: absolute;
