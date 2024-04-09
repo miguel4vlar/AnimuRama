@@ -220,7 +220,7 @@ header .content h1{
 
 header .content p{
     font-size: 11px;
-    width: 300px;
+    width: 350px;
     word-break: break-word;
 }
 
@@ -462,7 +462,7 @@ header section:hover .bi-chevron-left{
     opacity: 1;
 }
 
-@media screen and (max-width: 1250px) {
+/*@media screen and (max-width: 1250px) {
     header video{
         position: absolute;
         width: 200%;
@@ -517,4 +517,4 @@ header section:hover .bi-chevron-left{
     header nav .logo_ul img {
     width: 185px;
 }
-}
+}*/
