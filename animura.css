@@ -220,7 +220,7 @@ header .content h1{
 
 header .content p{
     font-size: 11px;
-    width: 300px;
+    width: 400px;
     word-break: break-word;
 }
 
@@ -472,8 +472,12 @@ header section:hover .bi-chevron-left{
     }
 
     header nav{
-        padding: -11px;
+        padding: -11px 50px;
     }
+
+    header .content p{
+    width: 300px;
+}
 }
 
 /*@media screen and (max-width: 1250px) {
