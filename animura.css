@@ -481,6 +481,9 @@ header section:hover .bi-chevron-left{
     header .content p{
     width: 300px;
 }
+    header .content .ddetail{
+    width: 300px;
+    }
 
     header nav .search_user input{
     padding: 3px 10px;
